@@ -4,7 +4,7 @@ An interactive, single-file React tutorial covering **State**, **Hooks**, and **
 
 ---
 
-## 📸 What's Inside
+##  What's Inside
 
 | Section | Examples | Concepts |
 |---|---|---|
@@ -15,7 +15,7 @@ An interactive, single-file React tutorial covering **State**, **Hooks**, and **
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Option 1 — Online (zero setup, fastest)
 
@@ -56,7 +56,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 react-tutorial.jsx   ← the entire tutorial, self-contained
@@ -67,7 +67,7 @@ The tutorial is intentionally a **single file** — no extra dependencies, no co
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 ### State
 - `useState` with primitive values (numbers, booleans, strings)
@@ -93,7 +93,7 @@ The tutorial is intentionally a **single file** — no extra dependencies, no co
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 - **Node.js** 18+ (for local setup)
 - **React** 18+ (peer dependency via Vite or CRA)
@@ -101,7 +101,7 @@ The tutorial is intentionally a **single file** — no extra dependencies, no co
 
 ---
 
-## 📖 Fonts
+##  Fonts
 
 The tutorial loads two Google Fonts at runtime:
 - [Syne](https://fonts.google.com/specimen/Syne) — UI headings and body
@@ -111,7 +111,7 @@ An internet connection is needed to render them. The tutorial works offline but 
 
 ---
 
-## 💡 Tips for Learning
+##  Tips for Learning
 
 - **Break things on purpose** — remove the cleanup return from `useEffect` and watch the timer leak
 - **Comment out deps** — remove items from a `useEffect` dependency array and see stale closure bugs appear
@@ -120,6 +120,6 @@ An internet connection is needed to render them. The tutorial works offline but 
 
 ---
 
-## 📄 License
+##  License
 
 MIT — free to use, modify, and share.
